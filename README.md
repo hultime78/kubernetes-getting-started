@@ -50,7 +50,6 @@ You can start with a local development environment using tools like Minikube or 
 3. Install [Kubectl](https://kubernetes.io/docs/tasks/tools/#kubectl)
 
 4. Start Minikube with the following command
-
     <summary><b>cmd code </b></summary>
 
     
@@ -60,7 +59,6 @@ You can start with a local development environment using tools like Minikube or 
     ```
 
 5. Verify that Minikube is running with the following command
-
     <summary><b>cmd code </b></summary>
 
     
@@ -96,6 +94,9 @@ In simpler terms, a Kubernetes cluster is like a big computer made up of many sm
 
 7.  **Master**: The controlling unit in Kubernetes that manages the workload and directs communication across the system.
 
+<center><img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/12/minikube-architecture-4-1024x683.png" width=500 height=400></center>
+
+
   
   
 
@@ -108,7 +109,6 @@ In simpler terms, a Kubernetes cluster is like a big computer made up of many sm
 3. Write a deployment YAML file for your application.
 
 4. Deploy your application to the cluster with the following command :
-
     <summary><b>cmd command</b></summary>
 
     
@@ -118,9 +118,6 @@ In simpler terms, a Kubernetes cluster is like a big computer made up of many sm
     ```
 
 5. Verify the deployment with the following command
-
-  
-
     <summary><b>cmd command</b></summary>
 
     
@@ -191,9 +188,6 @@ Set up monitoring and logging to keep track of your application's performance an
 When you're done, you can delete your resources or the entire cluster:
 
 - Delete resources with the following command :
-
-  
-
     <summary><b>cmd command</b></summary>
 
   
@@ -220,9 +214,6 @@ When you're done, you can delete your resources or the entire cluster:
   
 
 - Or if you are using a Kind Cluster elete the Kind cluster with kind delete cluster.
-
-  
-
     <summary><b>cmd command</b></summary>
 
     ```console
