@@ -230,21 +230,21 @@ For more detailed guides and tutorials, you can refer to the official [Kubernete
 
 
 
-<table border=0px>
+<table border=0>
   <tr>
-    <td> <img src="https://github.com/hultime78.png" width="60px;"/><br/><sub><a href="https://github.com/hultime78">Aaron Mangbenza </a>
+    <td><center> <img src="https://github.com/hultime78.png" width="60px;"/> </center><a href="https://github.com/hultime78">Aaron Mangbenza </a>
     </td>
-    <td> <img src="https://github.com/gaeltan.png" width="60px;"/><br/><sub><a href="https://github.com/gaeltan">Gael Tanckwe </a>
+    <td> <center><img src="https://github.com/gaeltan.png" width="60px;"/></center><a href="https://github.com/gaeltan">Gael Tanckwe </a>
     </td>
-     <td> <img src="https://github.com/gabbryella.png" width="60px;"/><br/><sub><a href="https://github.com/gabryella">Gabriella Nshombo </a>
+     <td> <center><img src="https://github.com/gabbryella.png" width="60px;"/></center><a href="https://github.com/gabryella">Gabriella Nshombo </a>
     </td>
    </tr> 
    <tr>
-    <td> <img src="https://github.com/gabbryella.png" width="60px;"/><br/><sub><a href="https://github.com/hultime78">Joyce Mukadi</a>
+    <td> <center><img src="https://github.com/gabbryella.png" width="60px;"/></center><a href="https://github.com/hultime78">Joyce Mukadi</a>
     </td>
-    <td> <img src="https://github.com/yakambicredo.png" width="60px;"/><br/><sub><a href="https://github.com/credoyakambi">Crédo Yakambi </a>
+    <td> <center><img src="https://github.com/yakambicredo.png" width="60px;"/></center><a href="https://github.com/credoyakambi">Crédo Yakambi </a>
     </td>
-    <td> <img src="https://github.com/aladin-le-prince.png" width="60px;"/><br/><sub><a href="https://github.com/hultime78">Candy Kashaka </a>
+    <td> <center><img src="https://github.com/aladin-le-prince.png" width="60px;"/></center><a href="https://github.com/hultime78">Candy Kashaka </a>
     </td>
    </tr> 
   </tr>
