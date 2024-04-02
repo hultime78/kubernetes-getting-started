@@ -51,23 +51,23 @@ You can start with a local development environment using tools like Minikube or 
 
 4. Start Minikube with the following command
 
-<summary><b>cmd code </b></summary>
+    <summary><b>cmd code </b></summary>
 
-  
+    
 
-```console
-MiniKube Start
-```
+    ```console
+    MiniKube Start
+    ```
 
 5. Verify that Minikube is running with the following command
 
-<summary><b>cmd code </b></summary>
+    <summary><b>cmd code </b></summary>
 
-  
+    
 
-```console
-MiniKube Status
-```
+    ```console
+    MiniKube Status
+    ```
 
   
   
@@ -109,25 +109,25 @@ In simpler terms, a Kubernetes cluster is like a big computer made up of many sm
 
 4. Deploy your application to the cluster with the following command :
 
-<summary><b>cmd command</b></summary>
+    <summary><b>cmd command</b></summary>
 
-  
+    
 
-```bash
-kubectl apply -f your-app-deployment.yaml
-```
+    ```console
+    kubectl apply -f your-app-deployment.yaml
+    ```
 
 5. Verify the deployment with the following command
 
   
 
-<summary><b>cmd command</b></summary>
+    <summary><b>cmd command</b></summary>
 
-  
+    
 
-```bash
-kubectl get deployment
-```
+    ```console
+    kubectl get deployment
+    ```
 
   
   
@@ -140,13 +140,13 @@ kubectl get deployment
 
   
 
-<summary><b>cmd command</b></summary>
+    <summary><b>cmd command</b></summary>
 
-  
+    
 
-```bash
-kubectl apply -f your-app-service.yaml
-```
+    ```console
+    kubectl apply -f your-app-service.yaml
+    ```
 
 4. Access your application via the exposed service.
 
@@ -156,17 +156,17 @@ kubectl apply -f your-app-service.yaml
 
   
 
-- Scaling: Increase or decrease the number of replicas in your deployment with
+- Scaling: Increase or decrease the number of replicas in your deployment with :
 
   
 
-<summary><b>cmd command</b></summary>
+    <summary><b>cmd command</b></summary>
 
-  
+    
 
-```bash
-kubectl scale deployment/your-app --replicas=3.
-```
+    ```console
+    kubectl scale deployment/your-app --replicas=3.
+    ```
 
 - Updating: Update the application version by changing the image in your deployment and re-applying the configuration.
 
@@ -178,11 +178,11 @@ Set up monitoring and logging to keep track of your application's performance an
 
   
 
-• Use tools like Prometheus for monitoring.
+- Use tools like Prometheus for monitoring.
 
   
 
-• Use tools like Fluentd or ELK stack for logging.
+- Use tools like Fluentd or ELK stack for logging.
 
   
 
@@ -194,13 +194,13 @@ When you're done, you can delete your resources or the entire cluster:
 
   
 
-<summary><b>cmd command</b></summary>
+    <summary><b>cmd command</b></summary>
 
   
 
-```bash
-kubectl delete -f your-resource-file.yaml.
-```
+    ```console
+    kubectl delete -f your-resource-file.yaml.
+    ```
 
   
   
@@ -209,13 +209,13 @@ kubectl delete -f your-resource-file.yaml.
 
   
 
-<summary><b>cmd command</b></summary>
+    <summary><b>cmd command</b></summary>
 
-  
+    
 
-```bash
-minikube delete
-```
+    ```console
+    minikube delete
+    ```
 
   
 
@@ -223,11 +223,11 @@ minikube delete
 
   
 
-<summary><b>cmd command</b></summary>
+    <summary><b>cmd command</b></summary>
 
-```bash
-Kind delete
-```
+    ```console
+    Kind delete
+    ```
 
   
 
