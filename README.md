@@ -94,7 +94,7 @@ In simpler terms, a Kubernetes cluster is like a big computer made up of many sm
 
 7.  **Master**: The controlling unit in Kubernetes that manages the workload and directs communication across the system.
 
-![Minikube Architecture](https://www.devopsschool.com/blog/wp-content/uploads/2022/12/minikube-architecture-4-1024x683.png){ width="550" height="400" style="display: block; margin: 0 auto" }
+![Minikube Architecture](https://www.devopsschool.com/blog/wp-content/uploads/2022/12/minikube-architecture-4-1024x683.png){ width="550" height="400" style="display: block; margin: 0 auto"}
 
 
   
