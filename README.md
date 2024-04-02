@@ -94,7 +94,7 @@ In simpler terms, a Kubernetes cluster is like a big computer made up of many sm
 
 7.  **Master**: The controlling unit in Kubernetes that manages the workload and directs communication across the system.
 
-<center><img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/12/minikube-architecture-4-1024x683.png" width=500 height=400></center>
+![Minikube Architecture](https://www.devopsschool.com/blog/wp-content/uploads/2022/12/minikube-architecture-4-1024x683.png){ width="550" height="400" style="display: block; margin: 0 auto" }
 
 
   
@@ -228,4 +228,24 @@ For more detailed guides and tutorials, you can refer to the official [Kubernete
 
 ## Authors
 
-[<img src="https://github.com/hultime78.png" width="60px;"/><br/><sub><a href="https://github.com/hultime78">Aaron Mangbenza </a></sub>](https://github.com/hultime78)
+
+
+<table border=0px>
+  <tr>
+    <td> <img src="https://github.com/hultime78.png" width="60px;"/><br/><sub><a href="https://github.com/hultime78">Aaron Mangbenza </a>
+    </td>
+    <td> <img src="https://github.com/gaeltan.png" width="60px;"/><br/><sub><a href="https://github.com/gaeltan">Gael Tanckwe </a>
+    </td>
+     <td> <img src="https://github.com/gabbryella.png" width="60px;"/><br/><sub><a href="https://github.com/gabryella">Gabriella Nshombo </a>
+    </td>
+   </tr> 
+   <tr>
+    <td> <img src="https://i.pinimg.com/564x/41/2f/95/412f951a84614f3eaa634b44b7514e0e.jpg" width="60px;"/><br/><sub><a href="https://github.com/hultime78">Joyce Mukadi</a>
+    </td>
+    <td> <img src="https://github.com/yakambicredo.png" width="60px;"/><br/><sub><a href="https://github.com/credoyakambi">Crédo Yakambi </a>
+    </td>
+    <td> <img src="https://github.com/aladin-le-prince.png" width="60px;"/><br/><sub><a href="https://github.com/hultime78">Candy Kashaka </a>
+    </td>
+   </tr> 
+  </tr>
+</table>
