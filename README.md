@@ -240,12 +240,15 @@ For more detailed guides and tutorials, you can refer to the official [Kubernete
     </td>
    </tr> 
    <tr>
-    <td> <center><img src="https://github.com/gabbryella.png" width="50px;"/><br></center><a href="https://github.com/hultime78">Joyce Mukadi</a>
+    <td> <center><img src="https://github.com/freezecorleone66.png" width="50px;"/><br></center><a href="https://github.com/freezecorleone66">Joyce Mukadi</a>
     </td>
-    <td> <center><img src="https://github.com/yakambicredo.png" width="50px;"/><br></center><a href="https://github.com/credoyakambi">Crédo Yakambi </a>
-    </td>
-    <td> <center><img src="https://github.com/aladin-le-prince.png" width="50px;"/><br></center><a href="https://github.com/hultime78">Candy Kashaka </a>
+    <td> <center><img src="https://github.com/enerusama.png" width="50px;"/><br></center><a href="https://github.com/enerusama">Amos Makal </a></td>
+    <td> <center><img src="https://github.com/aladin-le-prince.png" width="50px;"/><br></center><a href="https://github.com/aladin-le-prince">Candy Kashaka </a>
     </td>
    </tr> 
+   <tr>
+   <td> <center><img src="https://github.com/yakambicredo.png" width="50px;"/><br></center><a href="https://github.com/yakambicredo">Crédo Yakambi </a>
+    </td>
+   </tr>
   </tr>
 </table>
